@@ -13,7 +13,7 @@ void Display(int iNo)
 
     for(i=1;i<=iNo;i++)
     {
-        printf("%d",i);
+        printf(" %d",i);
     }
 
     return;
